@@ -3,7 +3,7 @@
   ## Description
   A text editor app that highlights javascript elements.
 
-  ![screenshot](./Assets/screenshot.JPGg)
+  ![screenshot](./Assets/screenshot.JPG)
 
   ## Table of Contents
 
