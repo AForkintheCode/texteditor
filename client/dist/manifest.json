@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Just another text editor",
-  "short_name": "JATE",
+  "name": "Notepad 2.0",
+  "short_name": "notes",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",

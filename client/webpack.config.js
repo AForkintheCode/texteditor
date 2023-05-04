@@ -31,8 +31,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Just another text editor',
-        short_name: 'JATE',
+        name: 'Notepad 2.0',
+        short_name: 'notes',
         description: 'A simple text editor app',
         background_color: '#225ca3',
         theme_color: '#225ca3',
